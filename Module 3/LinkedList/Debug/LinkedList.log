@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+C:\Users\wkwon\source\repos\LinkedList\LinkedList.cpp(303,27): warning C4018: '<': signed/unsigned mismatch
+  LinkedList.vcxproj -> C:\Users\wkwon\source\repos\LinkedList\Debug\LinkedList.exe
