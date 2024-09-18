@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearchTree", "BinarySearchTree.vcxproj", "{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Debug|x64.ActiveCfg = Debug|x64
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Debug|x64.Build.0 = Debug|x64
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Debug|x86.Build.0 = Debug|Win32
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Release|x64.ActiveCfg = Release|x64
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Release|x64.Build.0 = Release|x64
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Release|x86.ActiveCfg = Release|Win32
+		{7F0D3BEA-18F0-4CF0-8B0D-1EC4AE45E97D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CC8401-F72C-4766-AEBD-CBA16BA2D6D5}
+	EndGlobalSection
+EndGlobal
